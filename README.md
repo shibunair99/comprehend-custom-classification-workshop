@@ -26,7 +26,8 @@ Create Policy
 
 Open the IAM console at https://console.aws.amazon.com/iam
 
-Navigate to Policies and click on 'Create policy', goto "JSON' tab and paste below with xxxxxxxxxxx replace by your accountid
+Navigate to Policies and click on 'Create policy', goto "JSON' tab and paste below. 
+Replace xxxxxxxxxxx with your accountid.
 
 ```
 {
