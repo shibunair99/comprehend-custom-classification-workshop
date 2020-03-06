@@ -28,7 +28,7 @@ Open the IAM console at https://console.aws.amazon.com/iam
 
 Navigate to Policies and click on 'Create policy', goto "JSON' tab and paste below
 
-
+```
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -48,6 +48,7 @@ Navigate to Policies and click on 'Create policy', goto "JSON' tab and paste bel
         }
     ]
 }
+```
 
 Follow direction and create the policy. Keep this policy name handy for next steps.
 
