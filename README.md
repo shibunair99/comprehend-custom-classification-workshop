@@ -26,7 +26,7 @@ Create Policy
 
 Open the IAM console at https://console.aws.amazon.com/iam
 
-Navigate to Policies and click on 'Create policy', goto "JSON' tab and paste below
+Navigate to Policies and click on 'Create policy', goto "JSON' tab and paste below with xxxxxxxxxxx replace by your accountid
 
 ```
 {
@@ -43,7 +43,7 @@ Navigate to Policies and click on 'Create policy', goto "JSON' tab and paste bel
             ],
             "Resource": [
                 "arn:aws:iam::xxxxxxxxxxx:role/*",
-                "arn:aws:iam::xxxxxxxxxxxx:policy/*"
+                "arn:aws:iam::xxxxxxxxxxx:policy/*"
             ]
         }
     ]
